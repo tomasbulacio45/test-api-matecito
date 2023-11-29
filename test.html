@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+</head>
+<body>
+    
+    <div id="app">
+        <div v-for="elemento in datos">
+            <h2>ID:{{elemento.id}}</h2>
+            <p>Nombre:{{elemento.nombre}}</p>
+            <img v-bind:src="elemento.imagen" :alt="elemento.nombre">
+            <p>Precio:{{elemento.precio}}</p>
+            <p>Boton:{{elemento.boton}}</p>
+
+        </div>
+    </div>
+
+
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="testjv.js"></script>
+</body>
+</html>

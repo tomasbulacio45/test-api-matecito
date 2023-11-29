@@ -1,0 +1,179 @@
+{
+    "mates": [
+        {
+            "id": 1,
+            "nombre": "mate imperial",
+            "imagen": "./img/mates/mate-imperial.jpg",
+            "precio": "$4000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 2,
+            "nombre": "mate camionero algarrobo",
+            "imagen": "./img/mates/MATE CAMIONERO DE ALGARROBO -LISO- (sin personalización).jpeg",
+            "precio": "$6000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 3,
+            "nombre": "mate imperial afa",
+            "imagen": "./img/mates/mate-imperial-afa.png",
+            "precio": "$5000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 4,
+            "nombre": "mate imperial boca",
+            "imagen": "./img/mates/mate-imperial-escudo-boca.png",
+            "precio": "$5000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 5,
+            "nombre": "mate imperial river",
+            "imagen": "./img/mates/mate-imperial-escudo-river.png",
+            "precio": "$5000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 6,
+            "nombre": "mate galleta",
+            "imagen": "./img/mates/mate-galleta.jpg",
+            "precio": "$6500",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 7,
+            "nombre": "mate calabaza alpaca",
+            "imagen": "./img/mates/mate-calabaza-y-alpaca.jpg",
+            "precio": "$7000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 8,
+            "nombre": "mate mateo original",
+            "imagen": "./img/mates/MATE-MATEO-ORIGINAL-DE-SILICONA-CON-BOMBILLA-SILICOSAS-LILA-BORDADO-1000.jpg",
+            "precio": "$4000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 9,
+            "nombre": "mate vidrio forrado",
+            "imagen": "./img/mates/Mate-vidrio-forrado.jpg",
+            "precio": "$6000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 10,
+            "nombre": "mate madera flor sakura",
+            "imagen": "./img/mates/mate-de-madera-con-flor-sakura-el-boyero.jpg",
+            "precio": "$5500",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 11,
+            "nombre": "mate acero inoxidable",
+            "imagen": "./img/mates/mate-acero-bombilla.jpg",
+            "precio": "$3500",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 12,
+            "nombre": "mate madera alpaca",
+            "imagen": "./img/mates/mate-de-madera-y-alpaca.jpg",
+            "precio": "$6000",
+            "boton": "Agregar al carrito"
+        }
+    ],
+
+    "termos": [
+        {
+            "id": 13,
+            "nombre": "termo acero inova",
+            "imagen": "./img/termos/termo-inova-acero-inoxidable.jpg",
+            "precio": "$25000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 14,
+            "nombre": "termo stanley",
+            "imagen": "./img/termos/termo-stanley.png",
+            "precio": "$33000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 15,
+            "nombre": "termo tango azul",
+            "imagen": "./img/termos/termo-tango-azul1.jpg",
+            "precio": "$20000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 16,
+            "nombre": "termo acero boca",
+            "imagen": "./img/termos/termo-acero-boca-1ltr.jpg",
+            "precio": "$22000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 17,
+            "nombre": "termo acero corona rosa",
+            "imagen": "./img/termos/termo-acero-motiva-corona-rosa.jpg",
+            "precio": "$27000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 18,
+            "nombre": "termo acero corona celeste",
+            "imagen": "./img/termos/termo-acero-motiva-corona-celeste.jpg",
+            "precio": "$27000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 19,
+            "nombre": "termo pampero",
+            "imagen": "./img/termos/TERMO-ZE-pampero.jpg",
+            "precio": "$30000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 20,
+            "nombre": "termo lumilagro aconcagua",
+            "imagen": "./img/termos/termo-lumilagro-aconcagua.png",
+            "precio": "$24000",
+            "boton": "Agregar al carrito"
+        }
+    ],
+
+    "kit matero": [
+        {
+            "id": 21,
+            "nombre": "kit matero negro",
+            "imagen": "./img/kit-matero/kit-matero-1.jpg",
+            "precio": "$35000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 22,
+            "nombre": "kit matero malevo",
+            "imagen": "./img/kit-matero/Kit-matero-MALEVO-M926as.jpg",
+            "precio": "$38000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 23,
+            "nombre": "kit matero cuero",
+            "imagen": "./img/kit-matero/kit-matero-serie-2.jpg",
+            "precio": "$40000",
+            "boton": "Agregar al carrito"
+        },
+        {
+            "id": 24,
+            "nombre": "kit matero viajero",
+            "imagen": "./img/kit-matero/kitMATEROviajero001.jpg",
+            "precio": "$30000",
+            "boton": "Agregar al carrito"
+        }
+    ]
+    
+}
