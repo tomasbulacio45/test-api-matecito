@@ -3,21 +3,21 @@
         {
             "id": 1,
             "nombre": "mate imperial",
-            "imagen": "./img/mates/mate-imperial.jpg",
+            "imagen": "https://d22fxaf9t8d39k.cloudfront.net/fcceaea1c4502ce1b44cf1fb9108d7de4988698fab7792b3b440e5c79575d497130080.jpg",
             "precio": "$4000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 2,
             "nombre": "mate camionero algarrobo",
-            "imagen": "./img/mates/MATE CAMIONERO DE ALGARROBO -LISO- (sin personalización).jpeg",
+            "imagen": "https://d22fxaf9t8d39k.cloudfront.net/ba1e77d8d438601b898ab1f8395f70d19a15ddbe5b9c202d0eaa4e1b893dd4f619762.jpeg",
             "precio": "$6000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 3,
             "nombre": "mate imperial afa",
-            "imagen": "./img/mates/mate-imperial-afa.png",
+            "imagen": "https://matesibarra.com/wp-content/uploads/2022/10/IMG_1763.png",
             "precio": "$5000",
             "boton": "Agregar al carrito"
         },
