@@ -24,63 +24,63 @@
         {
             "id": 4,
             "nombre": "mate imperial boca",
-            "imagen": "./img/mates/mate-imperial-escudo-boca.png",
+            "imagen": "https://matesibarra.com/wp-content/uploads/2022/02/IMG_5799.png",
             "precio": "$5000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 5,
             "nombre": "mate imperial river",
-            "imagen": "./img/mates/mate-imperial-escudo-river.png",
+            "imagen": "https://matesibarra.com/wp-content/uploads/2022/05/IMG_4219.png",
             "precio": "$5000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 6,
             "nombre": "mate galleta",
-            "imagen": "./img/mates/mate-galleta.jpg",
+            "imagen": "https://todomates.com.ar/wp-content/uploads/2020/09/20200913_151602-scaled.jpg",
             "precio": "$6500",
             "boton": "Agregar al carrito"
         },
         {
             "id": 7,
             "nombre": "mate calabaza alpaca",
-            "imagen": "./img/mates/mate-calabaza-y-alpaca.jpg",
+            "imagen": "https://img.freepik.com/foto-gratis/delicioso-trago-terere-bodegon_23-2150219486.jpg?w=740&t=st=1701364455~exp=1701365055~hmac=e54ae4088042846b2e6dfd77cc5d3172c46047cecb18d60a932c82db949fa97d",
             "precio": "$7000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 8,
             "nombre": "mate mateo original",
-            "imagen": "./img/mates/MATE-MATEO-ORIGINAL-DE-SILICONA-CON-BOMBILLA-SILICOSAS-LILA-BORDADO-1000.jpg",
+            "imagen": "https://silicosas.com.ar/wp-content/uploads/MATE-MATEO-ORIGINAL-DE-SILICONA-CON-BOMBILLA-SILICOSAS-LILA-BORDADO-1000.jpg",
             "precio": "$4000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 9,
             "nombre": "mate vidrio forrado",
-            "imagen": "./img/mates/Mate-vidrio-forrado.jpg",
+            "imagen": "https://casanostracba.com/wp-content/uploads/2020/02/Mate-vidrio-forrado.jpg",
             "precio": "$6000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 10,
             "nombre": "mate madera flor sakura",
-            "imagen": "./img/mates/mate-de-madera-con-flor-sakura-el-boyero.jpg",
+            "imagen": "https://elboyero.com/14885-large_default/mate-de-madera-con-flor-sakura-el-boyero.jpg",
             "precio": "$5500",
             "boton": "Agregar al carrito"
         },
         {
             "id": 11,
             "nombre": "mate acero inoxidable",
-            "imagen": "./img/mates/mate-acero-bombilla.jpg",
+            "imagen": "https://acdn.mitiendanube.com/stores/726/407/products/mate-acero-bombilla11-66b020023734428e0a15899475229256-640-0.jpg",
             "precio": "$3500",
             "boton": "Agregar al carrito"
         },
         {
             "id": 12,
             "nombre": "mate madera alpaca",
-            "imagen": "./img/mates/mate-de-madera-y-alpaca.jpg",
+            "imagen": "https://tradicionesargentinas.com/wp-content/uploads/2021/10/4220-scaled.jpg",
             "precio": "$6000",
             "boton": "Agregar al carrito"
         }
@@ -90,56 +90,56 @@
         {
             "id": 13,
             "nombre": "termo acero inova",
-            "imagen": "./img/termos/termo-inova-acero-inoxidable.jpg",
+            "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/284/050/products/wellnes-octubre-1171-8db4f2638a8770dded16335493155994-1024-1024.jpg",
             "precio": "$25000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 14,
             "nombre": "termo stanley",
-            "imagen": "./img/termos/termo-stanley.png",
+            "imagen": "https://acdn.mitiendanube.com/stores/002/214/302/products/031031-f59bab21dde3ec7bda16625599605176-640-0.png",
             "precio": "$33000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 15,
             "nombre": "termo tango azul",
-            "imagen": "./img/termos/termo-tango-azul1.jpg",
+            "imagen": "https://www.lumilagro.com.ar/wp-content/uploads/2020/12/tangoazul1.jpg",
             "precio": "$20000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 16,
             "nombre": "termo acero boca",
-            "imagen": "./img/termos/termo-acero-boca-1ltr.jpg",
+            "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/050/261/products/img-20230731-wa00131-ce149f27702c0e8f0c16913381452287-480-0.jpg",
             "precio": "$22000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 17,
-            "nombre": "termo acero corona rosa",
-            "imagen": "./img/termos/termo-acero-motiva-corona-rosa.jpg",
+            "nombre": "termo acero corona blanco",
+            "imagen": "https://www.moltok.com.uy/wp-content/uploads/sites/189/2021/10/IMG_20211003_1519502-scaled.jpg",
             "precio": "$27000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 18,
             "nombre": "termo acero corona celeste",
-            "imagen": "./img/termos/termo-acero-motiva-corona-celeste.jpg",
+            "imagen": "https://www.moltok.com.uy/wp-content/uploads/sites/189/2021/10/termo2-scaled.jpg",
             "precio": "$27000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 19,
             "nombre": "termo pampero",
-            "imagen": "./img/termos/TERMO-ZE-pampero.jpg",
+            "imagen": "https://pampero.com.ar/wp-content/uploads/2022/03/TERMO-ZE-01_0168.jpghttps://pampero.com.ar/wp-content/uploads/2022/03/TERMO-ZE-01_0168.jpg",
             "precio": "$30000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 20,
             "nombre": "termo lumilagro aconcagua",
-            "imagen": "./img/termos/termo-lumilagro-aconcagua.png",
+            "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/002/549/552/products/11-22f13cd1b6f6cb029516758059661144-1024-1024.png",
             "precio": "$24000",
             "boton": "Agregar al carrito"
         }
@@ -149,28 +149,28 @@
         {
             "id": 21,
             "nombre": "kit matero negro",
-            "imagen": "./img/kit-matero/kit-matero-1.jpg",
+            "imagen": "https://tiendadeestilosmayorista.com/wp-content/uploads/2023/05/fd69572f-6c27-453a-99d4-195bf17cb0cd.jpg",
             "precio": "$35000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 22,
             "nombre": "kit matero malevo",
-            "imagen": "./img/kit-matero/Kit-matero-MALEVO-M926as.jpg",
+            "imagen": "https://www.pedekaele.com.ar/wp-content/uploads/2019/06/Kit-matero-MALEVO-M926as.jpg",
             "precio": "$38000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 23,
             "nombre": "kit matero cuero",
-            "imagen": "./img/kit-matero/kit-matero-serie-2.jpg",
+            "imagen": "https://ogdistinciones.com.ar/wp-content/uploads/2022/04/BE-065-1.jpg",
             "precio": "$40000",
             "boton": "Agregar al carrito"
         },
         {
             "id": 24,
             "nombre": "kit matero viajero",
-            "imagen": "./img/kit-matero/kitMATEROviajero001.jpg",
+            "imagen": "https://www.cimarron.com.ar/wp-content/uploads/2021/07/kitMATEROviajero001.jpg",
             "precio": "$30000",
             "boton": "Agregar al carrito"
         }
